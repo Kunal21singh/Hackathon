@@ -30,3 +30,6 @@ For the project to run we need below libraries to be installed.
 Additionally we also need the input data which can be found here.
 
 https://drive.google.com/file/d/10BRa-fCyVd4K3L9iLWQC8vp2DWJAiKSV/view?usp=drive_link
+
+Explanation:
+https://drive.google.com/file/d/14iJZsedXvsB5m9RbKed_6_N1A0Me8wHQ/view?usp=drive_link
